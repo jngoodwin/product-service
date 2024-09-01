@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.njgcommerce.product-service' is invalid and this project uses 'com.njgcommerce.product_service' instead.
+* The original package name 'com.njgcommerce.product-service' is invalid and this project uses 'com.njgcommerce.product' instead.
 
 # Getting Started
 
