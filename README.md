@@ -1,1 +1,1 @@
-# product-service
+# inventory-service
